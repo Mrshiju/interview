@@ -1,0 +1,6 @@
+1.进行数据分析，得知用户的浏览量，解决办法用的GA. https://www.cnblogs.com/goloving/p/10216071.html
+2.首页加载慢，解决办法参考： https://www.cnblogs.com/BlingSun/p/10213292.html
+3.音乐网站播放歌曲时与谷歌自带的播放器内容不同步， 解决办法参考:https://dev-developers.whale.naver.com/tutorials/mediaSession/ 和 https://developer.mozilla.org/zh-CN/docs/Web/API/MediaSession/metadata
+4.默认图片的像素比和实际图片的像素比不一致，导致两张图片之间出现一个图片的空白
+5.vue项目中safari浏览器下img标签中路径错误时的渲染问题, 解决办法参考：https://blog.csdn.net/weixin_42446516/article/details/103399461
+6.vue项目中发现端口被占用解决方法 解决办法参考：https://blog.csdn.net/weixin_42446516/article/details/102607785
